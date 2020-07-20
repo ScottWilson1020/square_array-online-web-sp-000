@@ -1,7 +1,4 @@
-def square_array(array)
-  array.each do 
-  array**
-end
+
 
 def square_array(array)
   squared_array = []
